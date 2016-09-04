@@ -1,4 +1,3 @@
-layout_spectrum: 0.7836419376544654
 typography_spectrum: 0.9159193658269942
 color:
   brandStrength: 0.051493320846930146
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.7836419376544654
 name: The Maverick Iconoclast
+title: Harar
